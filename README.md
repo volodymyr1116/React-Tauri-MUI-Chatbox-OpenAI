@@ -101,7 +101,7 @@ Any form of contribution is welcome, including but not limited to:
 1. Clone the repository from Github using the following command:
 
 ```bash
-git clone https://github.com/ccorte20/React-Tauri-Chatbox-OpenAI.git
+git clone https://github.com/volodymyr1116/React-Tauri-Chatbox-OpenAI.git
 ```
 
 2. Install the required dependencies by running the following command:
