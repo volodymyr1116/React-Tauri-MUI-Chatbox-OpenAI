@@ -88,8 +88,8 @@
             "active": true,
             "endpoints": [
                 "https://releases.chatboxai.app/chatbox/{{target}}/{{current_version}}",
-                "https://gist.githubusercontent.com/Bin-Huang/cf0b7684e28b30d760ba02417bbac916/raw/chatbox.releases.json",
-                "https://gist.githubusercontent.com/Bin-Huang/cf0b7684e28b30d760ba02417bbac916/raw"
+                "https://gist.githubusercontent.com/Chistian/cf0b7684e28b30d760ba02417bbac916/raw/chatbox.releases.json",
+                "https://gist.githubusercontent.com/Chistian/cf0b7684e28b30d760ba02417bbac916/raw"
             ],
             "dialog": true,
             "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDRCNkM4MDE2NDJBNTU3ODcKUldTSFY2VkNGb0JzUzZyT2Fzamx5dDB4QVQ5cHU1aU1tR3RYRVh4V204REkvMjFheWNzRG80dDEK"

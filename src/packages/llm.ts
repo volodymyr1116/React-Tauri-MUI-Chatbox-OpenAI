@@ -61,6 +61,8 @@ export async function chat(
         const response = await fetch(`${host}/v1/chat/completions`, {
             method: 'POST',
             headers: {
+                'Access-Control-Allow-Origin': '*', // Replace with the allowed origin(s) if known
+                'Access-Control-Allow-Headers': 'Content-Type',
                 Authorization: `Bearer ${apiKey}`,
                 'Content-Type': 'application/json',
             },
